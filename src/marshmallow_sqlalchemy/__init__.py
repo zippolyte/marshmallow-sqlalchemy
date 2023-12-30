@@ -14,7 +14,7 @@ from .schema import (
     auto_field,
 )
 
-__version__ = "0.29.0"
+__version__ = "0.29.1.dev0"
 __all__ = [
     "SQLAlchemySchema",
     "SQLAlchemyAutoSchema",
